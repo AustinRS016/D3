@@ -1,0 +1,145 @@
+Species,Origin,Run,Year,Count
+Chinook,Wild,Fall,1997,0
+Chinook,Wild,Fall,1998,0
+Chinook,Wild,Fall,1999,0
+Chinook,Wild,Fall,2000,0
+Chinook,Wild,Fall,2001,0
+Chinook,Wild,Fall,2002,0
+Chinook,Wild,Fall,2003,0
+Chinook,Wild,Fall,2004,0
+Chinook,Wild,Fall,2005,0
+Chinook,Wild,Fall,2006,0
+Chinook,Wild,Fall,2007,0
+Chinook,Wild,Fall,2008,0
+Chinook,Wild,Fall,2009,0
+Chinook,Wild,Fall,2010,162
+Chinook,Wild,Fall,2011,298
+Chinook,Wild,Fall,2012,540
+Chinook,Wild,Fall,2013,1174
+Chinook,Wild,Fall,2014,1269
+Chinook,Wild,Fall,2015,989
+Chinook,Wild,Fall,2016,0
+Chinook,Wild,Fall,2017,0
+Chinook,Wild,Fall,2018,0
+Chinook,Wild,Fall,2019,0
+Chinook,Wild,Fall,2020,0
+Chinook,Hatchery,Fall,1997,10774
+Chinook,Hatchery,Fall,1998,15010
+Chinook,Hatchery,Fall,1999,23202
+Chinook,Hatchery,Fall,2000,7115
+Chinook,Hatchery,Fall,2001,14560
+Chinook,Hatchery,Fall,2002,11933
+Chinook,Hatchery,Fall,2003,8923
+Chinook,Hatchery,Fall,2004,15493
+Chinook,Hatchery,Fall,2005,10408
+Chinook,Hatchery,Fall,2006,8039
+Chinook,Hatchery,Fall,2007,4596
+Chinook,Hatchery,Fall,2008,18448
+Chinook,Hatchery,Fall,2009,9560
+Chinook,Hatchery,Fall,2010,16553
+Chinook,Hatchery,Fall,2011,17176
+Chinook,Hatchery,Fall,2012,18903
+Chinook,Hatchery,Fall,2013,38821
+Chinook,Hatchery,Fall,2014,66056
+Chinook,Hatchery,Fall,2015,60492
+Chinook,Hatchery,Fall,2016,27973
+Chinook,Hatchery,Fall,2017,15251
+Chinook,Hatchery,Fall,2018,14651
+Chinook,Hatchery,Fall,2019,16783
+Chinook,Hatchery,Fall,2020,34694
+Chinook,Unknown,Fall,1997,0
+Chinook,Unknown,Fall,1998,0
+Chinook,Unknown,Fall,1999,0
+Chinook,Unknown,Fall,2000,0
+Chinook,Unknown,Fall,2001,0
+Chinook,Unknown,Fall,2002,0
+Chinook,Unknown,Fall,2003,0
+Chinook,Unknown,Fall,2004,0
+Chinook,Unknown,Fall,2005,0
+Chinook,Unknown,Fall,2006,0
+Chinook,Unknown,Fall,2007,0
+Chinook,Unknown,Fall,2008,0
+Chinook,Unknown,Fall,2009,0
+Chinook,Unknown,Fall,2010,0
+Chinook,Unknown,Fall,2011,0
+Chinook,Unknown,Fall,2012,0
+Chinook,Unknown,Fall,2013,0
+Chinook,Unknown,Fall,2014,0
+Chinook,Unknown,Fall,2015,0
+Chinook,Unknown,Fall,2016,773
+Chinook,Unknown,Fall,2017,1460
+Chinook,Unknown,Fall,2018,1969
+Chinook,Unknown,Fall,2019,2174
+Chinook,Unknown,Fall,2020,1164
+Steelhead,Unknown,Summer,1997,0
+Steelhead,Unknown,Summer,1998,0
+Steelhead,Unknown,Summer,1999,0
+Steelhead,Unknown,Summer,2000,0
+Steelhead,Unknown,Summer,2001,0
+Steelhead,Unknown,Summer,2002,0
+Steelhead,Unknown,Summer,2003,0
+Steelhead,Unknown,Summer,2004,0
+Steelhead,Unknown,Summer,2005,0
+Steelhead,Unknown,Summer,2006,0
+Steelhead,Unknown,Summer,2007,0
+Steelhead,Unknown,Summer,2008,3
+Steelhead,Unknown,Summer,2009,9
+Steelhead,Unknown,Summer,2010,0
+Steelhead,Unknown,Summer,2011,0
+Steelhead,Unknown,Summer,2012,0
+Steelhead,Unknown,Summer,2013,6
+Steelhead,Unknown,Summer,2014,22
+Steelhead,Unknown,Summer,2015,13
+Steelhead,Unknown,Summer,2016,5
+Steelhead,Unknown,Summer,2017,5
+Steelhead,Unknown,Summer,2018,0
+Steelhead,Unknown,Summer,2019,0
+Steelhead,Unknown,Summer,2020,0
+Coho,Wild,Type S,1997,0
+Coho,Wild,Type S,1998,0
+Coho,Wild,Type S,1999,0
+Coho,Wild,Type S,2000,0
+Coho,Wild,Type S,2001,0
+Coho,Wild,Type S,2002,0
+Coho,Wild,Type S,2003,0
+Coho,Wild,Type S,2004,0
+Coho,Wild,Type S,2005,0
+Coho,Wild,Type S,2006,0
+Coho,Wild,Type S,2007,0
+Coho,Wild,Type S,2008,0
+Coho,Wild,Type S,2009,0
+Coho,Wild,Type S,2010,0
+Coho,Wild,Type S,2011,0
+Coho,Wild,Type S,2012,0
+Coho,Wild,Type S,2013,0
+Coho,Wild,Type S,2014,0
+Coho,Wild,Type S,2015,0
+Coho,Wild,Type S,2016,2
+Coho,Wild,Type S,2017,20
+Coho,Wild,Type S,2018,15
+Coho,Wild,Type S,2019,50
+Coho,Wild,Type S,2020,25
+Coho,Hatchery,Type S,1997,0
+Coho,Hatchery,Type S,1998,0
+Coho,Hatchery,Type S,1999,0
+Coho,Hatchery,Type S,2000,0
+Coho,Hatchery,Type S,2001,0
+Coho,Hatchery,Type S,2002,0
+Coho,Hatchery,Type S,2003,0
+Coho,Hatchery,Type S,2004,0
+Coho,Hatchery,Type S,2005,0
+Coho,Hatchery,Type S,2006,0
+Coho,Hatchery,Type S,2007,0
+Coho,Hatchery,Type S,2008,0
+Coho,Hatchery,Type S,2009,0
+Coho,Hatchery,Type S,2010,0
+Coho,Hatchery,Type S,2011,0
+Coho,Hatchery,Type S,2012,3
+Coho,Hatchery,Type S,2013,0
+Coho,Hatchery,Type S,2014,45
+Coho,Hatchery,Type S,2015,3
+Coho,Hatchery,Type S,2016,0
+Coho,Hatchery,Type S,2017,1
+Coho,Hatchery,Type S,2018,14
+Coho,Hatchery,Type S,2019,16
+Coho,Hatchery,Type S,2020,18

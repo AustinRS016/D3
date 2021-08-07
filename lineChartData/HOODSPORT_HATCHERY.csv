@@ -1,0 +1,193 @@
+Species,Origin,Run,Year,Count
+Chinook,Hatchery,Fall,1997,5503
+Chinook,Hatchery,Fall,1998,5968
+Chinook,Hatchery,Fall,1999,10125
+Chinook,Hatchery,Fall,2000,4841
+Chinook,Hatchery,Fall,2001,4143
+Chinook,Hatchery,Fall,2002,4789
+Chinook,Hatchery,Fall,2003,3529
+Chinook,Hatchery,Fall,2004,3232
+Chinook,Hatchery,Fall,2005,3151
+Chinook,Hatchery,Fall,2006,2875
+Chinook,Hatchery,Fall,2007,2449
+Chinook,Hatchery,Fall,2008,1348
+Chinook,Hatchery,Fall,2009,2822
+Chinook,Hatchery,Fall,2010,1072
+Chinook,Hatchery,Fall,2011,662
+Chinook,Hatchery,Fall,2012,5387
+Chinook,Hatchery,Fall,2013,2379
+Chinook,Hatchery,Fall,2014,1899
+Chinook,Hatchery,Fall,2015,2157
+Chinook,Hatchery,Fall,2016,3331
+Chinook,Hatchery,Fall,2017,3404
+Chinook,Hatchery,Fall,2018,2639
+Chinook,Hatchery,Fall,2019,898
+Chinook,Hatchery,Fall,2020,379
+Coho,Hatchery,nan,1997,375
+Coho,Hatchery,nan,1998,118
+Coho,Hatchery,nan,1999,55
+Coho,Hatchery,nan,2000,15
+Coho,Hatchery,nan,2001,959
+Coho,Hatchery,nan,2002,184
+Coho,Hatchery,nan,2003,17
+Coho,Hatchery,nan,2004,54
+Coho,Hatchery,nan,2005,33
+Coho,Hatchery,nan,2006,214
+Coho,Hatchery,nan,2007,0
+Coho,Hatchery,nan,2008,0
+Coho,Hatchery,nan,2009,0
+Coho,Hatchery,nan,2010,0
+Coho,Hatchery,nan,2011,0
+Coho,Hatchery,nan,2012,0
+Coho,Hatchery,nan,2013,0
+Coho,Hatchery,nan,2014,0
+Coho,Hatchery,nan,2015,0
+Coho,Hatchery,nan,2016,57
+Coho,Hatchery,nan,2017,20
+Coho,Hatchery,nan,2018,19
+Coho,Hatchery,nan,2019,49
+Coho,Hatchery,nan,2020,30
+Coho,Unknown,nan,1997,0
+Coho,Unknown,nan,1998,0
+Coho,Unknown,nan,1999,0
+Coho,Unknown,nan,2000,0
+Coho,Unknown,nan,2001,0
+Coho,Unknown,nan,2002,0
+Coho,Unknown,nan,2003,0
+Coho,Unknown,nan,2004,0
+Coho,Unknown,nan,2005,0
+Coho,Unknown,nan,2006,0
+Coho,Unknown,nan,2007,4
+Coho,Unknown,nan,2008,18
+Coho,Unknown,nan,2009,4
+Coho,Unknown,nan,2010,49
+Coho,Unknown,nan,2011,154
+Coho,Unknown,nan,2012,190
+Coho,Unknown,nan,2013,67
+Coho,Unknown,nan,2014,164
+Coho,Unknown,nan,2015,66
+Coho,Unknown,nan,2016,0
+Coho,Unknown,nan,2017,0
+Coho,Unknown,nan,2018,0
+Coho,Unknown,nan,2019,0
+Coho,Unknown,nan,2020,0
+Chum,Hatchery,nan,1997,40724
+Chum,Hatchery,nan,1998,0
+Chum,Hatchery,nan,1999,1
+Chum,Hatchery,nan,2000,0
+Chum,Hatchery,nan,2001,60246
+Chum,Hatchery,nan,2002,92614
+Chum,Hatchery,nan,2003,25246
+Chum,Hatchery,nan,2004,16776
+Chum,Hatchery,nan,2005,14907
+Chum,Hatchery,nan,2006,13217
+Chum,Hatchery,nan,2007,8384
+Chum,Hatchery,nan,2008,7254
+Chum,Hatchery,nan,2009,8391
+Chum,Hatchery,nan,2010,14966
+Chum,Hatchery,nan,2011,11588
+Chum,Hatchery,nan,2012,10663
+Chum,Hatchery,nan,2013,11514
+Chum,Hatchery,nan,2014,21676
+Chum,Hatchery,nan,2015,21267
+Chum,Hatchery,nan,2016,0
+Chum,Hatchery,nan,2017,0
+Chum,Hatchery,nan,2018,0
+Chum,Hatchery,nan,2019,0
+Chum,Hatchery,nan,2020,0
+Chum,Hatchery,Fall,1997,0
+Chum,Hatchery,Fall,1998,52598
+Chum,Hatchery,Fall,1999,25709
+Chum,Hatchery,Fall,2000,20665
+Chum,Hatchery,Fall,2001,0
+Chum,Hatchery,Fall,2002,0
+Chum,Hatchery,Fall,2003,0
+Chum,Hatchery,Fall,2004,0
+Chum,Hatchery,Fall,2005,0
+Chum,Hatchery,Fall,2006,0
+Chum,Hatchery,Fall,2007,0
+Chum,Hatchery,Fall,2008,0
+Chum,Hatchery,Fall,2009,0
+Chum,Hatchery,Fall,2010,0
+Chum,Hatchery,Fall,2011,0
+Chum,Hatchery,Fall,2012,0
+Chum,Hatchery,Fall,2013,0
+Chum,Hatchery,Fall,2014,0
+Chum,Hatchery,Fall,2015,0
+Chum,Hatchery,Fall,2016,0
+Chum,Hatchery,Fall,2017,0
+Chum,Hatchery,Fall,2018,0
+Chum,Hatchery,Fall,2019,0
+Chum,Hatchery,Fall,2020,0
+Chum,Unknown,nan,1997,0
+Chum,Unknown,nan,1998,0
+Chum,Unknown,nan,1999,0
+Chum,Unknown,nan,2000,0
+Chum,Unknown,nan,2001,0
+Chum,Unknown,nan,2002,0
+Chum,Unknown,nan,2003,0
+Chum,Unknown,nan,2004,0
+Chum,Unknown,nan,2005,0
+Chum,Unknown,nan,2006,0
+Chum,Unknown,nan,2007,0
+Chum,Unknown,nan,2008,0
+Chum,Unknown,nan,2009,0
+Chum,Unknown,nan,2010,0
+Chum,Unknown,nan,2011,0
+Chum,Unknown,nan,2012,0
+Chum,Unknown,nan,2013,0
+Chum,Unknown,nan,2014,0
+Chum,Unknown,nan,2015,0
+Chum,Unknown,nan,2016,47237
+Chum,Unknown,nan,2017,40442
+Chum,Unknown,nan,2018,35813
+Chum,Unknown,nan,2019,5805
+Chum,Unknown,nan,2020,12529
+Pink,Hatchery,nan,1997,13283
+Pink,Hatchery,nan,1998,0
+Pink,Hatchery,nan,1999,7639
+Pink,Hatchery,nan,2000,0
+Pink,Hatchery,nan,2001,68385
+Pink,Hatchery,nan,2002,0
+Pink,Hatchery,nan,2003,27308
+Pink,Hatchery,nan,2004,0
+Pink,Hatchery,nan,2005,14055
+Pink,Hatchery,nan,2006,0
+Pink,Hatchery,nan,2007,3567
+Pink,Hatchery,nan,2008,0
+Pink,Hatchery,nan,2009,21663
+Pink,Hatchery,nan,2010,0
+Pink,Hatchery,nan,2011,17641
+Pink,Hatchery,nan,2012,0
+Pink,Hatchery,nan,2013,4903
+Pink,Hatchery,nan,2014,0
+Pink,Hatchery,nan,2015,5948
+Pink,Hatchery,nan,2016,0
+Pink,Hatchery,nan,2017,0
+Pink,Hatchery,nan,2018,0
+Pink,Hatchery,nan,2019,0
+Pink,Hatchery,nan,2020,0
+Pink,Unknown,Odd Year,1997,0
+Pink,Unknown,Odd Year,1998,0
+Pink,Unknown,Odd Year,1999,0
+Pink,Unknown,Odd Year,2000,0
+Pink,Unknown,Odd Year,2001,0
+Pink,Unknown,Odd Year,2002,0
+Pink,Unknown,Odd Year,2003,0
+Pink,Unknown,Odd Year,2004,0
+Pink,Unknown,Odd Year,2005,0
+Pink,Unknown,Odd Year,2006,0
+Pink,Unknown,Odd Year,2007,0
+Pink,Unknown,Odd Year,2008,0
+Pink,Unknown,Odd Year,2009,0
+Pink,Unknown,Odd Year,2010,0
+Pink,Unknown,Odd Year,2011,0
+Pink,Unknown,Odd Year,2012,0
+Pink,Unknown,Odd Year,2013,0
+Pink,Unknown,Odd Year,2014,0
+Pink,Unknown,Odd Year,2015,0
+Pink,Unknown,Odd Year,2016,0
+Pink,Unknown,Odd Year,2017,2543
+Pink,Unknown,Odd Year,2018,0
+Pink,Unknown,Odd Year,2019,9607
+Pink,Unknown,Odd Year,2020,0

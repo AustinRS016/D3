@@ -1,0 +1,385 @@
+Species,Origin,Run,Year,Count
+Chinook,Wild,Spring,1997,0
+Chinook,Wild,Spring,1998,0
+Chinook,Wild,Spring,1999,0
+Chinook,Wild,Spring,2000,0
+Chinook,Wild,Spring,2001,0
+Chinook,Wild,Spring,2002,0
+Chinook,Wild,Spring,2003,205
+Chinook,Wild,Spring,2004,235
+Chinook,Wild,Spring,2005,167
+Chinook,Wild,Spring,2006,244
+Chinook,Wild,Spring,2007,156
+Chinook,Wild,Spring,2008,30
+Chinook,Wild,Spring,2009,23
+Chinook,Wild,Spring,2010,68
+Chinook,Wild,Spring,2011,71
+Chinook,Wild,Spring,2012,40
+Chinook,Wild,Spring,2013,39
+Chinook,Wild,Spring,2014,17
+Chinook,Wild,Spring,2015,25
+Chinook,Wild,Spring,2016,21
+Chinook,Wild,Spring,2017,33
+Chinook,Wild,Spring,2018,27
+Chinook,Wild,Spring,2019,23
+Chinook,Wild,Spring,2020,129
+Chinook,Wild,Fall,1997,0
+Chinook,Wild,Fall,1998,0
+Chinook,Wild,Fall,1999,0
+Chinook,Wild,Fall,2000,0
+Chinook,Wild,Fall,2001,0
+Chinook,Wild,Fall,2002,527
+Chinook,Wild,Fall,2003,705
+Chinook,Wild,Fall,2004,203
+Chinook,Wild,Fall,2005,602
+Chinook,Wild,Fall,2006,227
+Chinook,Wild,Fall,2007,188
+Chinook,Wild,Fall,2008,114
+Chinook,Wild,Fall,2009,294
+Chinook,Wild,Fall,2010,82
+Chinook,Wild,Fall,2011,14
+Chinook,Wild,Fall,2012,29
+Chinook,Wild,Fall,2013,0
+Chinook,Wild,Fall,2014,100
+Chinook,Wild,Fall,2015,242
+Chinook,Wild,Fall,2016,86
+Chinook,Wild,Fall,2017,189
+Chinook,Wild,Fall,2018,206
+Chinook,Wild,Fall,2019,117
+Chinook,Wild,Fall,2020,339
+Chinook,Hatchery,Spring,1997,0
+Chinook,Hatchery,Spring,1998,0
+Chinook,Hatchery,Spring,1999,0
+Chinook,Hatchery,Spring,2000,0
+Chinook,Hatchery,Spring,2001,0
+Chinook,Hatchery,Spring,2002,1776
+Chinook,Hatchery,Spring,2003,2794
+Chinook,Hatchery,Spring,2004,3998
+Chinook,Hatchery,Spring,2005,1884
+Chinook,Hatchery,Spring,2006,3886
+Chinook,Hatchery,Spring,2007,3738
+Chinook,Hatchery,Spring,2008,1354
+Chinook,Hatchery,Spring,2009,1045
+Chinook,Hatchery,Spring,2010,1828
+Chinook,Hatchery,Spring,2011,950
+Chinook,Hatchery,Spring,2012,1255
+Chinook,Hatchery,Spring,2013,1617
+Chinook,Hatchery,Spring,2014,920
+Chinook,Hatchery,Spring,2015,644
+Chinook,Hatchery,Spring,2016,326
+Chinook,Hatchery,Spring,2017,2373
+Chinook,Hatchery,Spring,2018,2013
+Chinook,Hatchery,Spring,2019,759
+Chinook,Hatchery,Spring,2020,1293
+Chinook,Hatchery,Fall,1997,0
+Chinook,Hatchery,Fall,1998,0
+Chinook,Hatchery,Fall,1999,0
+Chinook,Hatchery,Fall,2000,0
+Chinook,Hatchery,Fall,2001,0
+Chinook,Hatchery,Fall,2002,0
+Chinook,Hatchery,Fall,2003,0
+Chinook,Hatchery,Fall,2004,0
+Chinook,Hatchery,Fall,2005,0
+Chinook,Hatchery,Fall,2006,0
+Chinook,Hatchery,Fall,2007,0
+Chinook,Hatchery,Fall,2008,0
+Chinook,Hatchery,Fall,2009,171
+Chinook,Hatchery,Fall,2010,84
+Chinook,Hatchery,Fall,2011,4
+Chinook,Hatchery,Fall,2012,35
+Chinook,Hatchery,Fall,2013,0
+Chinook,Hatchery,Fall,2014,219
+Chinook,Hatchery,Fall,2015,524
+Chinook,Hatchery,Fall,2016,156
+Chinook,Hatchery,Fall,2017,324
+Chinook,Hatchery,Fall,2018,272
+Chinook,Hatchery,Fall,2019,155
+Chinook,Hatchery,Fall,2020,246
+Steelhead,Wild,Summer,1997,0
+Steelhead,Wild,Summer,1998,0
+Steelhead,Wild,Summer,1999,0
+Steelhead,Wild,Summer,2000,0
+Steelhead,Wild,Summer,2001,0
+Steelhead,Wild,Summer,2002,51
+Steelhead,Wild,Summer,2003,86
+Steelhead,Wild,Summer,2004,73
+Steelhead,Wild,Summer,2005,49
+Steelhead,Wild,Summer,2006,39
+Steelhead,Wild,Summer,2007,18
+Steelhead,Wild,Summer,2008,17
+Steelhead,Wild,Summer,2009,13
+Steelhead,Wild,Summer,2010,33
+Steelhead,Wild,Summer,2011,15
+Steelhead,Wild,Summer,2012,14
+Steelhead,Wild,Summer,2013,3
+Steelhead,Wild,Summer,2014,14
+Steelhead,Wild,Summer,2015,23
+Steelhead,Wild,Summer,2016,12
+Steelhead,Wild,Summer,2017,16
+Steelhead,Wild,Summer,2018,19
+Steelhead,Wild,Summer,2019,7
+Steelhead,Wild,Summer,2020,5
+Steelhead,Wild,Winter,1997,0
+Steelhead,Wild,Winter,1998,0
+Steelhead,Wild,Winter,1999,0
+Steelhead,Wild,Winter,2000,0
+Steelhead,Wild,Winter,2001,0
+Steelhead,Wild,Winter,2002,6
+Steelhead,Wild,Winter,2003,92
+Steelhead,Wild,Winter,2004,96
+Steelhead,Wild,Winter,2005,78
+Steelhead,Wild,Winter,2006,85
+Steelhead,Wild,Winter,2007,73
+Steelhead,Wild,Winter,2008,37
+Steelhead,Wild,Winter,2009,38
+Steelhead,Wild,Winter,2010,62
+Steelhead,Wild,Winter,2011,20
+Steelhead,Wild,Winter,2012,0
+Steelhead,Wild,Winter,2013,0
+Steelhead,Wild,Winter,2014,0
+Steelhead,Wild,Winter,2015,0
+Steelhead,Wild,Winter,2016,0
+Steelhead,Wild,Winter,2017,0
+Steelhead,Wild,Winter,2018,0
+Steelhead,Wild,Winter,2019,0
+Steelhead,Wild,Winter,2020,0
+Steelhead,Wild,Winter-Late,1997,0
+Steelhead,Wild,Winter-Late,1998,0
+Steelhead,Wild,Winter-Late,1999,0
+Steelhead,Wild,Winter-Late,2000,0
+Steelhead,Wild,Winter-Late,2001,0
+Steelhead,Wild,Winter-Late,2002,0
+Steelhead,Wild,Winter-Late,2003,0
+Steelhead,Wild,Winter-Late,2004,0
+Steelhead,Wild,Winter-Late,2005,0
+Steelhead,Wild,Winter-Late,2006,0
+Steelhead,Wild,Winter-Late,2007,0
+Steelhead,Wild,Winter-Late,2008,0
+Steelhead,Wild,Winter-Late,2009,0
+Steelhead,Wild,Winter-Late,2010,0
+Steelhead,Wild,Winter-Late,2011,0
+Steelhead,Wild,Winter-Late,2012,11
+Steelhead,Wild,Winter-Late,2013,21
+Steelhead,Wild,Winter-Late,2014,11
+Steelhead,Wild,Winter-Late,2015,91
+Steelhead,Wild,Winter-Late,2016,50
+Steelhead,Wild,Winter-Late,2017,91
+Steelhead,Wild,Winter-Late,2018,110
+Steelhead,Wild,Winter-Late,2019,72
+Steelhead,Wild,Winter-Late,2020,410
+Steelhead,Hatchery,Summer,1997,0
+Steelhead,Hatchery,Summer,1998,0
+Steelhead,Hatchery,Summer,1999,0
+Steelhead,Hatchery,Summer,2000,0
+Steelhead,Hatchery,Summer,2001,0
+Steelhead,Hatchery,Summer,2002,13049
+Steelhead,Hatchery,Summer,2003,10054
+Steelhead,Hatchery,Summer,2004,12620
+Steelhead,Hatchery,Summer,2005,9116
+Steelhead,Hatchery,Summer,2006,9370
+Steelhead,Hatchery,Summer,2007,3902
+Steelhead,Hatchery,Summer,2008,7809
+Steelhead,Hatchery,Summer,2009,6624
+Steelhead,Hatchery,Summer,2010,9116
+Steelhead,Hatchery,Summer,2011,3030
+Steelhead,Hatchery,Summer,2012,4594
+Steelhead,Hatchery,Summer,2013,444
+Steelhead,Hatchery,Summer,2014,8099
+Steelhead,Hatchery,Summer,2015,4542
+Steelhead,Hatchery,Summer,2016,6718
+Steelhead,Hatchery,Summer,2017,2921
+Steelhead,Hatchery,Summer,2018,4037
+Steelhead,Hatchery,Summer,2019,1496
+Steelhead,Hatchery,Summer,2020,1804
+Steelhead,Hatchery,Winter,1997,0
+Steelhead,Hatchery,Winter,1998,0
+Steelhead,Hatchery,Winter,1999,0
+Steelhead,Hatchery,Winter,2000,0
+Steelhead,Hatchery,Winter,2001,0
+Steelhead,Hatchery,Winter,2002,523
+Steelhead,Hatchery,Winter,2003,2471
+Steelhead,Hatchery,Winter,2004,1839
+Steelhead,Hatchery,Winter,2005,2098
+Steelhead,Hatchery,Winter,2006,1783
+Steelhead,Hatchery,Winter,2007,3292
+Steelhead,Hatchery,Winter,2008,1297
+Steelhead,Hatchery,Winter,2009,2488
+Steelhead,Hatchery,Winter,2010,2891
+Steelhead,Hatchery,Winter,2011,1212
+Steelhead,Hatchery,Winter,2012,1098
+Steelhead,Hatchery,Winter,2013,246
+Steelhead,Hatchery,Winter,2014,278
+Steelhead,Hatchery,Winter,2015,1658
+Steelhead,Hatchery,Winter,2016,2035
+Steelhead,Hatchery,Winter,2017,2626
+Steelhead,Hatchery,Winter,2018,1409
+Steelhead,Hatchery,Winter,2019,740
+Steelhead,Hatchery,Winter,2020,618
+Steelhead,Hatchery,Winter-Late,1997,0
+Steelhead,Hatchery,Winter-Late,1998,0
+Steelhead,Hatchery,Winter-Late,1999,0
+Steelhead,Hatchery,Winter-Late,2000,0
+Steelhead,Hatchery,Winter-Late,2001,0
+Steelhead,Hatchery,Winter-Late,2002,0
+Steelhead,Hatchery,Winter-Late,2003,0
+Steelhead,Hatchery,Winter-Late,2004,0
+Steelhead,Hatchery,Winter-Late,2005,0
+Steelhead,Hatchery,Winter-Late,2006,0
+Steelhead,Hatchery,Winter-Late,2007,0
+Steelhead,Hatchery,Winter-Late,2008,0
+Steelhead,Hatchery,Winter-Late,2009,0
+Steelhead,Hatchery,Winter-Late,2010,0
+Steelhead,Hatchery,Winter-Late,2011,0
+Steelhead,Hatchery,Winter-Late,2012,200
+Steelhead,Hatchery,Winter-Late,2013,709
+Steelhead,Hatchery,Winter-Late,2014,1054
+Steelhead,Hatchery,Winter-Late,2015,1278
+Steelhead,Hatchery,Winter-Late,2016,852
+Steelhead,Hatchery,Winter-Late,2017,633
+Steelhead,Hatchery,Winter-Late,2018,1220
+Steelhead,Hatchery,Winter-Late,2019,1005
+Steelhead,Hatchery,Winter-Late,2020,723
+Sockeye,Wild,nan,1997,0
+Sockeye,Wild,nan,1998,0
+Sockeye,Wild,nan,1999,0
+Sockeye,Wild,nan,2000,0
+Sockeye,Wild,nan,2001,0
+Sockeye,Wild,nan,2002,0
+Sockeye,Wild,nan,2003,0
+Sockeye,Wild,nan,2004,5
+Sockeye,Wild,nan,2005,54
+Sockeye,Wild,nan,2006,0
+Sockeye,Wild,nan,2007,12
+Sockeye,Wild,nan,2008,19
+Sockeye,Wild,nan,2009,3
+Sockeye,Wild,nan,2010,8
+Sockeye,Wild,nan,2011,19
+Sockeye,Wild,nan,2012,3
+Sockeye,Wild,nan,2013,0
+Sockeye,Wild,nan,2014,0
+Sockeye,Wild,nan,2015,32
+Sockeye,Wild,nan,2016,0
+Sockeye,Wild,nan,2017,0
+Sockeye,Wild,nan,2018,0
+Sockeye,Wild,nan,2019,0
+Sockeye,Wild,nan,2020,0
+Sockeye,Unknown,nan,1997,0
+Sockeye,Unknown,nan,1998,0
+Sockeye,Unknown,nan,1999,0
+Sockeye,Unknown,nan,2000,0
+Sockeye,Unknown,nan,2001,0
+Sockeye,Unknown,nan,2002,0
+Sockeye,Unknown,nan,2003,0
+Sockeye,Unknown,nan,2004,0
+Sockeye,Unknown,nan,2005,0
+Sockeye,Unknown,nan,2006,0
+Sockeye,Unknown,nan,2007,0
+Sockeye,Unknown,nan,2008,0
+Sockeye,Unknown,nan,2009,0
+Sockeye,Unknown,nan,2010,0
+Sockeye,Unknown,nan,2011,0
+Sockeye,Unknown,nan,2012,0
+Sockeye,Unknown,nan,2013,0
+Sockeye,Unknown,nan,2014,0
+Sockeye,Unknown,nan,2015,0
+Sockeye,Unknown,nan,2016,19
+Sockeye,Unknown,nan,2017,16
+Sockeye,Unknown,nan,2018,25
+Sockeye,Unknown,nan,2019,12
+Sockeye,Unknown,nan,2020,14
+Coho,Wild,Type S,1997,0
+Coho,Wild,Type S,1998,0
+Coho,Wild,Type S,1999,0
+Coho,Wild,Type S,2000,0
+Coho,Wild,Type S,2001,0
+Coho,Wild,Type S,2002,40
+Coho,Wild,Type S,2003,117
+Coho,Wild,Type S,2004,162
+Coho,Wild,Type S,2005,91
+Coho,Wild,Type S,2006,55
+Coho,Wild,Type S,2007,79
+Coho,Wild,Type S,2008,114
+Coho,Wild,Type S,2009,50
+Coho,Wild,Type S,2010,43
+Coho,Wild,Type S,2011,9
+Coho,Wild,Type S,2012,11
+Coho,Wild,Type S,2013,0
+Coho,Wild,Type S,2014,1311
+Coho,Wild,Type S,2015,57
+Coho,Wild,Type S,2016,1106
+Coho,Wild,Type S,2017,1969
+Coho,Wild,Type S,2018,175
+Coho,Wild,Type S,2019,819
+Coho,Wild,Type S,2020,3490
+Coho,Wild,Type N,1997,0
+Coho,Wild,Type N,1998,0
+Coho,Wild,Type N,1999,0
+Coho,Wild,Type N,2000,0
+Coho,Wild,Type N,2001,0
+Coho,Wild,Type N,2002,103
+Coho,Wild,Type N,2003,858
+Coho,Wild,Type N,2004,559
+Coho,Wild,Type N,2005,217
+Coho,Wild,Type N,2006,109
+Coho,Wild,Type N,2007,168
+Coho,Wild,Type N,2008,215
+Coho,Wild,Type N,2009,200
+Coho,Wild,Type N,2010,250
+Coho,Wild,Type N,2011,100
+Coho,Wild,Type N,2012,30
+Coho,Wild,Type N,2013,1
+Coho,Wild,Type N,2014,142
+Coho,Wild,Type N,2015,27
+Coho,Wild,Type N,2016,83
+Coho,Wild,Type N,2017,211
+Coho,Wild,Type N,2018,257
+Coho,Wild,Type N,2019,257
+Coho,Wild,Type N,2020,729
+Coho,Hatchery,Type S,1997,0
+Coho,Hatchery,Type S,1998,0
+Coho,Hatchery,Type S,1999,0
+Coho,Hatchery,Type S,2000,0
+Coho,Hatchery,Type S,2001,0
+Coho,Hatchery,Type S,2002,2821
+Coho,Hatchery,Type S,2003,7030
+Coho,Hatchery,Type S,2004,11677
+Coho,Hatchery,Type S,2005,7138
+Coho,Hatchery,Type S,2006,3281
+Coho,Hatchery,Type S,2007,5545
+Coho,Hatchery,Type S,2008,12780
+Coho,Hatchery,Type S,2009,4339
+Coho,Hatchery,Type S,2010,4221
+Coho,Hatchery,Type S,2011,423
+Coho,Hatchery,Type S,2012,76
+Coho,Hatchery,Type S,2013,0
+Coho,Hatchery,Type S,2014,10634
+Coho,Hatchery,Type S,2015,469
+Coho,Hatchery,Type S,2016,2302
+Coho,Hatchery,Type S,2017,1609
+Coho,Hatchery,Type S,2018,1007
+Coho,Hatchery,Type S,2019,1429
+Coho,Hatchery,Type S,2020,3594
+Coho,Hatchery,Type N,1997,0
+Coho,Hatchery,Type N,1998,0
+Coho,Hatchery,Type N,1999,0
+Coho,Hatchery,Type N,2000,0
+Coho,Hatchery,Type N,2001,0
+Coho,Hatchery,Type N,2002,2292
+Coho,Hatchery,Type N,2003,7588
+Coho,Hatchery,Type N,2004,6098
+Coho,Hatchery,Type N,2005,7588
+Coho,Hatchery,Type N,2006,3857
+Coho,Hatchery,Type N,2007,3357
+Coho,Hatchery,Type N,2008,9837
+Coho,Hatchery,Type N,2009,5013
+Coho,Hatchery,Type N,2010,4084
+Coho,Hatchery,Type N,2011,1637
+Coho,Hatchery,Type N,2012,285
+Coho,Hatchery,Type N,2013,3
+Coho,Hatchery,Type N,2014,2740
+Coho,Hatchery,Type N,2015,1630
+Coho,Hatchery,Type N,2016,4998
+Coho,Hatchery,Type N,2017,2539
+Coho,Hatchery,Type N,2018,1154
+Coho,Hatchery,Type N,2019,534
+Coho,Hatchery,Type N,2020,1342
